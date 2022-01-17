@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.AssemblyInfo.cs
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\AssignmentsDay5\bin\Debug\net6.0\AssignmentsDay5.exe
+C:\Users\prati\source\repos\AssignmentsDay5\bin\Debug\net6.0\AssignmentsDay5.deps.json
+C:\Users\prati\source\repos\AssignmentsDay5\bin\Debug\net6.0\AssignmentsDay5.runtimeconfig.json
+C:\Users\prati\source\repos\AssignmentsDay5\bin\Debug\net6.0\AssignmentsDay5.dll
+C:\Users\prati\source\repos\AssignmentsDay5\bin\Debug\net6.0\ref\AssignmentsDay5.dll
+C:\Users\prati\source\repos\AssignmentsDay5\bin\Debug\net6.0\AssignmentsDay5.pdb
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.dll
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\ref\AssignmentsDay5.dll
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.pdb
+C:\Users\prati\source\repos\AssignmentsDay5\obj\Debug\net6.0\AssignmentsDay5.genruntimeconfig.cache
